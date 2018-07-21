@@ -2,9 +2,9 @@
 .idea
 **/*.iml
 local.properties
-build
+**/build
 *~
-.externalNativeBuild
+**/.externalNativeBuild
 libwebp
 .DS_Store
 

@@ -11,7 +11,7 @@ buildscript {
         jcenter()
         maven {
             // All of React Native (JS, Android binaries) is installed from npm
-            url "/usr/local/google/home/gfan/tmp/test/node_modules/react-native/android"
+            url "../../../../reactnative/node_modules/react-native/android"
         }
     }
     dependencies {
